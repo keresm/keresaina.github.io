@@ -28,11 +28,3 @@
         if (document.querySelectorAll('#p1 .s').length === 0) alert('You have lost!');
     }
 })(10, 10);
-
-CSS:
-#p1 .s { background: #222; }
-#p2 .s, .w { background: skyblue; }
-.d { background: red;}
-.m { background: gray; }
-#p1 div, #p2 div { width: 20px; height: 20px; float: left; }
-#p1, #p2 { width: 200px; height: 200 px; float: left; margin: 10px; }
