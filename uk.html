@@ -1,3 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>awsm.css</title>
+    <link rel="stylesheet" href="css/awsm.min.css">
+    <meta property="og:title" content="awsm.css">
+    <meta property="og:description" content="Simple CSS library for semantic HTML markup">
+    <meta property="og:image" content="https://igoradamenko.github.io/awsm.css/images/cover.png">
+    <meta property="og:url" content="https://igoradamenko.github.io/awsm.css/">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:creator" content="@igoradamenko">
+    <script>
+      if (location.hostname === 'localhost') localStorage.clear();
+      var version = '3.0.4';
+      var themes = JSON.parse('[{"title":"white","prismTheme":""},{"title":"gondola","prismTheme":"tomorrow"},{"title":"mischka","prismTheme":"okaidia"},{"title":"big-stone","prismTheme":"tomorrow"},{"title":"black","prismTheme":""},{"title":"tasman","prismTheme":""},{"title":"pastel-pink","prismTheme":""},{"title":"pearl-lusta","prismTheme":"solarizedlight"}]');
+      var storedVersion = localStorage.getItem('awsm-version');
+      
+      if (version !== storedVersion) {
+        localStorage.removeItem('awsm-current-theme');
+        localStorage.removeItem('awsm-themes');
+        localStorage.setItem('awsm-version', version);
+      }
+      
+      function getCSSFileName(theme) {
+        return 'css/awsm_theme_' + theme + '.min.css';
+      }
+      
+      function appendStyles(str) {
+        var style = document.createElement('style');
+        style.innerHTML = str;
+        document.querySelector('head').appendChild(style);
+      }
+      
+      function loadTheme() {
+        var theme = localStorage.getItem('awsm-current-theme');
+      
+        if (!theme || theme === 'white') return;
+      
+        reloadTheme(theme);
+      }
+      
+      function reloadTheme(theme) {
+        var storedThemesStr = localStorage.getItem('awsm-themes');
+      
+        if (!storedThemesStr) return;
+      
+        var storedThemes = JSON.parse(storedThemesStr);
+      
+        appendStyles(storedThemes[theme]);
+      }
+      
+      loadTheme();
+      
+    </script>
+  </head>
+
+
 <body>
   <header>
     <h1> London </h1>
@@ -22,3 +81,9 @@
     
 
 <p><img alt=""class="full-width-img" src="IMG_6795.jpg" style="width: 940px; height: 627px;"></p>
+
+    
+    
+    <footer>
+      <p>keresm</p>
+    </footer>
