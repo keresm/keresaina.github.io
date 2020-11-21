@@ -1,0 +1,67 @@
+html{
+  font-family: 'Jost', sans-serif;
+  font-size: 14px;
+  line-height: 1.4;
+  background: #fff;
+  color: #000;
+  -webkit-overflow-scrolling: touch
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.pagination {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 2rem
+}
+
+.post__title {
+  margin: 0 0 0.5rem;
+}
+
+.post__title  > a {
+  text-decoration: none;
+}
+
+.post__header {
+  margin-bottom: 0.5rem;
+}
+
+.post-date-tags {
+  font-family: 'Jost', sans-serif;
+}
+
+article p,
+article ul,
+article ol,
+article figcaption {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Jost', sans-serif;
+  font-weight: 600;
+}
+
+.keres-blog {
+  font-family: 'Amatic SC', cursive;
+  font-size: 2rem;
+  text-decoration: none;
+  text-align: center;
+  color: #000000;
+}
+
+.keres-blog h1 {
+  font-family: 'Amatic SC', cursive;
+}
+
+.keres-blog-a {
+  text-decoration: none;
+}

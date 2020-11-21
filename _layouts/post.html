@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<article>
+  <header>
+    <h1>{{ page.title }}</h1>
+    <span class="post-date-tags">🗓️
+      {% assign m = page.date | date: "%-m" %}
+      {{ page.date | date: "%-d" }}
+      {% case m %}
+        {% when '1' %}Января
+        {% when '2' %}Февраля
+        {% when '3' %}Марта
+        {% when '4' %}Апреля
+        {% when '5' %}Мая
+        {% when '6' %}Июня
+        {% when '7' %}Июля
+        {% when '8' %}Августа
+        {% when '9' %}Сентября
+        {% when '10' %}Октября
+        {% when '11' %}Ноября
+        {% when '12' %}Декабря
+      {% endcase %}
+      {{ page.date | date: "%Y" }}
+    </span>
+  </header>
+  {{ content }}
+</article>
