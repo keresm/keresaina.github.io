@@ -1,6 +1,9 @@
 ---
-layout: default
+layout: post
+title: Итоги 2020
+date:   2021-11-19 07:41:13 +0900
 ---
+
 <header>
 <nav>
 <ul>
@@ -13,39 +16,7 @@ layout: default
 <li>
   <a href="/_posts/About_me.md">Обо мне</a>
 </li>
-  
 </ul>
 </nav>
 </header>
 
-{% for post in paginator.posts %}
-  <article>
-    <div>
-      <header class="post__header">
-        <h1 class="post__title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
-      </header>
-      <a href="{{ post.url | prepend: site.baseurl }}">
-        <img src="{{ post.image_cover | prepend: site.baseurl }}" alt="" class="post__image_cover" />
-      </a>
-    </div>
-  </article>
-  <hr>
-{% endfor %}
-
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">
-      ←
-    </a>
-  {% else %}
-    <span class="previous">←</span>
-  {% endif %}
-  <span class="page_number ">
-    Страница: {{ paginator.page }} из {{ paginator.total_pages }}
-  </span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">→</a>
-  {% else %}
-    <span class="next ">→</span>
-  {% endif %}
-</div>
