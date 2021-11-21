@@ -12,7 +12,7 @@ permalink: /about/
 
 ## Контакты
 
-- [телеграм](@keresm)
+- [телеграм](https://t.me/@keresm)
 - [Мои песни на bandcamp](https://keresm.bandcamp.com/)
 - [Старые песни на soundcloud](https://soundcloud.com/keresm)
-- [Вконтактик](vk.com/keresm)
+- [Вконтактик](https://vk.com/keresm)
