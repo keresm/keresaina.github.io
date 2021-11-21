@@ -14,5 +14,4 @@ permalink: /about/
 
 - [телеграм](https://t.me/@keresm)
 - [bandcamp](https://keresm.bandcamp.com/)
-- [soundcloud](https://soundcloud.com/keresm)
 - [вк](https://vk.com/keresm)
