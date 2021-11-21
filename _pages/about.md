@@ -8,11 +8,11 @@ permalink: /about/
 
 Работаю продакт менеджером в компании inDriver. Бакалавриат - СВФУ "Прикладная математика и информатика". Учусь на 2 курсе магистратуры НИУ ВШЭ "Электронный бизнес и цифровые инновации"
 
-В свободное время веду блог, играю в шахматных турнирах, пишу музыку и выступаю с группой женская дисграмония 2.0
+В свободное время веду блог, играю в шахматы, пишу музыку 
 
 ## Контакты
 
 - [телеграм](https://t.me/@keresm)
-- [Мои песни на bandcamp](https://keresm.bandcamp.com/)
-- [Старые песни на soundcloud](https://soundcloud.com/keresm)
-- [Вконтактик](https://vk.com/keresm)
+- [bandcamp](https://keresm.bandcamp.com/)
+- [soundcloud](https://soundcloud.com/keresm)
+- [вк](https://vk.com/keresm)
