@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /product/
-title: Записки продакта
+title: 👩🏻‍💻 Записки продакта
 ---
 
 Это мои заметки
