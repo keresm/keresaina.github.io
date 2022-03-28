@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Грузия за неделю"
-date:   2022-03-27 21:41:13 +0900
+date:   2021-03-27 21:41:13 +0900
 image_cover: '/assets/images/Georgia/georgia.png'
 ---
 
