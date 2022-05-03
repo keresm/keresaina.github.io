@@ -3,14 +3,7 @@ layout: page
 title: Блог
 permalink: /blog/
 ---
-
-Дарова! Меня зовут Айыына. Веду блог, играю в шахматы, пишу музыку 
-
-### Контакты
-
-- [Мой телеграм канал](https://t.me/+RddPCnYtiyJ24nTY)
-- [bandcamp](https://keresm.bandcamp.com/)
-- [вк](https://vk.com/keresm)
+Веду блог, играю в шахматы, пишу музыку 
 
 ### Итоги года
 - [Итоги 2020](http://keresm.ru/2021-01-14-Выводы/)
