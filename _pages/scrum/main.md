@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /scrum/
-title: Записки скрам-мастера
+title: Scrum заметки
 ---
 
-## Общее
-- []()
+Тут будут мои заметки :)
+
