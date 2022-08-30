@@ -6,7 +6,7 @@ title: Вокруг света
 
 
 ## 2022
-### Kazakhstan, Almaty  
+### Kazakhstan, Almaty/Astana
   Небольшой гайд для тех, кто планирует приехать в Казахстан 
   - [Гайд по Казахстану](http://keresm.ru/2022-05-02-kz/)
 
@@ -14,7 +14,7 @@ title: Вокруг света
 
 
 ## 2021
-### Georgian, Tbilisi
+### Georgia, Tbilisi
   Перед новым 2022 годом побывала в Тбилиси
   - [Неделя в Грузии](http://keresm.ru/2022-03-27-Georgia/)
   - 
@@ -31,7 +31,7 @@ title: Вокруг света
 
 
 ## 2016
-### South Korea, Seul
+### South Korea, Seoul
 
 
 ## 2015
@@ -41,10 +41,9 @@ title: Вокруг света
 
 
 ## 2014
-### Greece, Rethymno
-### Greece, Palaihora
+### Greece, Rethymno/Palaihora
 ### South Africa, Durban
-### Georgian, Batumi
+### Georgia, Batumi
 
 
 ## 2013
@@ -54,7 +53,7 @@ title: Вокруг света
 
 
 ## 2012
-### Chech Republic, Praha
+### Czech Republic, Praha
 ### Slovenia, Maribor
 ### Ukraine, Odessa
 
