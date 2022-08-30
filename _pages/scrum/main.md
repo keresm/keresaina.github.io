@@ -7,4 +7,4 @@ title: Scrum заметки
 Тут будут мои заметки :)
 
 
-- [Техники фасилитации](http://keresm.ru/2022-08-29-facilitation/)
+- [Техники фасилитации](keresm.github.io/_pages/scrum/2022-08-29-facilitation.md)
