@@ -19,7 +19,6 @@ title: Вокруг света
 ### Georgia, Tbilisi
   Перед новым 2022 годом побывала в Тбилиси
   - [Неделя в Грузии](http://keresm.ru/2022-03-27-Georgia/)
-  - 
 
 ## 2020
 ### England, London 
