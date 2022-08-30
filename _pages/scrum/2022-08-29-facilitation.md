@@ -1,5 +1,7 @@
 ---
+layout: page
 title: Техники фасилитации
+permalink: /scrum/
 date:   2022-08-29 07:41:13 +0900
 ---
 
