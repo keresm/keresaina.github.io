@@ -4,6 +4,8 @@ permalink: /travel/
 title: Вокруг света
 ---
 
+# 9% от всего мира
+[Карта путешествий](http://www.onetwotrip.com/ru/landings/map/vMxVX67Ds9kvK2re4etxKd)
 
 ## 2022
 ### Kazakhstan, Almaty/Astana
