@@ -8,3 +8,4 @@ title: Scrum заметки
 
 
 - [Техники фасилитации](https://keresm.ru/2022-08-29-facilitation/)
+- [Постановка Sprint Goal](https://keresm.ru/2022-09-17-sprint-goal/)
